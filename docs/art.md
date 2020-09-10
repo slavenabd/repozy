@@ -18,7 +18,7 @@
    3. [Standardizirani pristup liječenja kronične bubrežne bolesti u djeteta](https://drive.google.com/open?id=1ajhULD9oB_TExHtfy9mtTNSZHsSiNrDn)
    4. [Psihometrijska validacija SHS upitnika](https://drive.google.com/open?id=12ndilN_8FhsFXnxfNRnsa2rpoOKo71At)
    5. [Posterior urethral valve as a cause of lower urinary tract symptoms](https://drive.google.com/open?id=1eynsojsPgGqa1JChlc2l5uF3Y5CJsy4K)
-   6. [Posterior urethral valve - a nephrologist's perspective](https://drive.google.com/open?id=1RVvPOMJNRq0iCqM-sGZx6molVP-BG0Gf)
+   6. [Posterior urethral valve - a nephrologist's perspective](https://www.youtube.com/watch?v=e2M-Uj7_Q4s&t=1146s)
 
 ## Objavljeni članci
 
@@ -33,6 +33,7 @@
    7. Hojsak I, **Abdovic S**, Szajewska H, Milosevic M, Krznaric Z, Kolacek S. Lactobacillus GG in the prevention of nosocomial gastrointestinal and respiratory tract infections. Pediatrics. 2010;125(5):e1171-7.
    8. Hojsak I, Snovak N, **Abdovic S**, Szajewska H, Misak Z, Kolacek S. Lactobacillus GG in the prevention of gastrointestinal and respiratory tract infections in children who attend day care centers: a randomized, double-blind, placebo-controlled trial. Clin Nutr. 2010;29(3):312-6. 
    9. Madzarac Z, Baric A, **Abdović S**, Maric Z. Peace test: is war sometimes a better solution? Survey of students of Zagreb and Mostar Schools of Medicine. Croat Med J. 2003;44(1):36-40. 
+   10. Petar Šenjug, Tamara Nikuševa Martić 1, Marija Šenjug Perica, Maja Oroz, Matija Horaček, Martin Ćuk, **Slaven Abdović**, Danica Galešić Ljubanović. Autosomal recessive Alport syndrome caused by a novel COL4A4 splice site mutation: a case report. Croat Med J. 2019 Oct 31;60(5):458-462. doi: 10.3325/cmj.2019.60.458.
 
 ### Ostali indeksi (Medline, SCIE)
 
