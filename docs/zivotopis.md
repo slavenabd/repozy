@@ -10,9 +10,10 @@
    
 ### Radno mjesto
 
-   2013 - danas **Odjelni liječnik** | Odsjek za nefrologiju, Klinika za pedijatriju, Klinika za dječje bolesti Zagreb, Klaićeva 16, 10000 Zagreb, Hrvatska
+   2013 - danas **Pedijatar nefrolog** | Odsjek za nefrologiju, Klinika za pedijatriju, Klinika za dječje bolesti Zagreb, Klaićeva 16, 10000 Zagreb, Hrvatska
 
 ### Kontakt
    **Email** | sabdovic {at} mefhr {dot} org  
    **LinkedIn** | [Slaven Abdovic](https://www.linkedin.com/in/slaven-abdovic)  
-   **GitHub** | [slavenabd](https://github.com/slavenabd)  
+   **GitHub** | [slavenabd](https://github.com/slavenabd)
+   **YouTube** | [sabdovic](https://www.youtube.com/channel/UCaotfAg96osvQyR6LpzqTNw)
