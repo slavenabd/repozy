@@ -45,7 +45,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - 'UA-XXXXXXXX-X'
+  - 'UA-125902625-1'
   - 'auto'
 
 # Extensions
