@@ -15,5 +15,5 @@
 ### Kontakt
    **Email** | sabdovic {at} mefhr {dot} org  
    **LinkedIn** | [Slaven Abdovic](https://www.linkedin.com/in/slaven-abdovic)  
-   **GitHub** | [slavenabd](https://github.com/slavenabd)
+   **GitHub** | [slavenabd](https://github.com/slavenabd)  
    **YouTube** | [sabdovic](https://www.youtube.com/channel/UCaotfAg96osvQyR6LpzqTNw)
