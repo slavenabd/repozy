@@ -6,7 +6,7 @@
 
    2005 **Doktor medicine** | Medicinski fakultet Sveučilišta u Zagrebu  
    2013 **Specijalist pedijatar** | Klinika za dječje bolesti Zagreb  
-   2013 **Doktor znanosti** | Doktorski studij 'Biomedicina i zdravstvo', Medicinski fakultet Sveučilišta u Zagrebu | [doktorat](http://medlib.mef.hr/1960/, Procjena kvalitete života djece oboljele od upalnih bolesti crijeva) 
+   2013 **Doktor znanosti** | Doktorski studij 'Biomedicina i zdravstvo', Medicinski fakultet Sveučilišta u Zagrebu | [Procjena kvalitete života djece oboljele od upalnih bolesti crijeva](http://medlib.mef.hr/1960/)    
    2014 **Znanstveni suradnik** | Medicinski fakultet Sveučilišta u Zagrebu  
    2019 **Subspecijalist pedijatrijske nefrologije** | Klinika za dječje bolesti Zagreb 
    
