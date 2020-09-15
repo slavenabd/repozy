@@ -16,8 +16,7 @@ Ovaj repozitorij je zbirka koja okuplja i trajno pohranjuje rezultate osobnog zn
 
 ## Poster prezentacije, predavanja i objavljeni članci
 
-Pohranjeni su posteri koji su prezentirani na hrvatskim ili međunarodnim kongresima u PowerPoint formatu za tiskanje. Održana predavanja i objavljeni članke u CC ili drugim indeksima mogu se naći ovdje.  
-[Prikaži](art.md)
+Pohranjeni su posteri koji su prezentirani na hrvatskim ili međunarodnim kongresima u PowerPoint formatu za tiskanje. Održana predavanja i objavljeni članke u CC ili drugim indeksima mogu se naći [ovdje](art.md).
 
 ## Posjetite Budisuh.eu
 

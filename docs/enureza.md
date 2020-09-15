@@ -11,15 +11,15 @@ Navedeni dokumenti, web aplikacije i mobilne aplikacije su napisani ili razvijen
    3. Upitnik opsega i težine tegoba, ispunjava roditelj prije pregleda, [Enureza upitnik za roditelje](https://drive.google.com/open?id=1VPtIZs4y81h6jnUwnfIaQoRYmBpaTqyA)  
    4. Dnevnik pijenja i mokrenja, nužan kako bi se utvrdio uzrok noćnog mokrenja (mali kapacitet ili noćna poliurija)  
    
-     * tiskana verzija, [48h dnevnik](https://drive.google.com/open?id=1Up_f-J5tJCjO1kJBTONFFMnF-MXBXkyJ)  
-     * Excel file, [48h dnevnik mokrenja i pijenja](https://drive.google.com/open?id=1eMNe9UeqJHjGoHEKNagK9sCb2fKM3DYs)  
+      4.1 tiskana verzija, [48h dnevnik](https://drive.google.com/open?id=1Up_f-J5tJCjO1kJBTONFFMnF-MXBXkyJ)  
+      4.2 Excel file, [48h dnevnik mokrenja i pijenja](https://drive.google.com/open?id=1eMNe9UeqJHjGoHEKNagK9sCb2fKM3DYs)  
      
    5. [Dnevnik pijenja i mokrenja te kako ga pravilno ispuniti i tumačiti](https://budisuh.eu/dnevnik-pijenja-i-mokrenja-ispunjavanje-tumacenje/)
    6. [Preporuke pretraga za rijetke uzroke noćnog mokrenja](enureza_prep.md)  
    7. Liječenje enureze (noćnog mokrenja)  
 
-     * Osnova liječenja su mjere standardne uroterapije koje uključuju režim pijenja i mokrenja te regulaciju stolice  
-     * [Liječenje noćnog mokrenja i 3 koraka do uspjeha](https://budisuh.eu/uspjesno-lijecenje-nocnog-mokrenja/) 
+    7.1  Osnova liječenja su mjere standardne uroterapije koje uključuju režim pijenja i mokrenja te regulaciju stolice  
+    7.2 [Liječenje noćnog mokrenja i 3 koraka do uspjeha](https://budisuh.eu/uspjesno-lijecenje-nocnog-mokrenja/) 
 
 ## Informacije o znanstvenoj vrijednosti 
 Izneseni stavovi su ekspertno mišljenje autora. U rangiranju znanstvenih dokaza ekspertno mišljenje nosi najnižu vrijednost. Znanstvena vrijednost iznesenih stavova je vrijednija kad su potkrijepljeni citiranjem objavljenih znanstvenih radova.
