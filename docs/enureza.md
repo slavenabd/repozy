@@ -18,8 +18,8 @@ Navedeni dokumenti, web aplikacije i mobilne aplikacije su napisani ili razvijen
    6. [Preporuke pretraga za rijetke uzroke noćnog mokrenja](enureza_prep.md)  
    7. Liječenje enureze (noćnog mokrenja)  
 
-    7.1  Osnova liječenja su mjere standardne uroterapije koje uključuju režim pijenja i mokrenja te regulaciju stolice  
-    7.2 [Liječenje noćnog mokrenja i 3 koraka do uspjeha](https://budisuh.eu/uspjesno-lijecenje-nocnog-mokrenja/) 
+      7.1  Osnova liječenja su mjere standardne uroterapije koje uključuju režim pijenja i mokrenja te regulaciju stolice  
+      7.2 [Liječenje noćnog mokrenja i 3 koraka do uspjeha](https://budisuh.eu/uspjesno-lijecenje-nocnog-mokrenja/) 
 
 ## Informacije o znanstvenoj vrijednosti 
 Izneseni stavovi su ekspertno mišljenje autora. U rangiranju znanstvenih dokaza ekspertno mišljenje nosi najnižu vrijednost. Znanstvena vrijednost iznesenih stavova je vrijednija kad su potkrijepljeni citiranjem objavljenih znanstvenih radova.
