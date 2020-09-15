@@ -12,4 +12,6 @@
     * Potrebno je redovito kontrolirati Ca/kreatinin u mokraći i u slučaju neuspjeha neslane prehrane u obzir dolazi terapija tiazidskim diureticima. 
     * U obzir dolazi denzitometrija kosti i ultrazvuk bubrega i mokraćnih putova radi procjene mineralizacije kosti, odnosno postojanja nefrolitijaze, urolitijaze ili nefrokalcinoze.  
   
-   4. **Ultrazvukom bubrega i mokraćnih putova** mogu se otkriti kongenitalne anomalije koje u većini slučajeva nisu udružene s pojavom noćnog mokrenja. Tranverzalni promjer rektuma veči od 3 cm ukazuje na opstipaciju.  
+   4. **Ultrazvukom bubrega i mokraćnih putova** mogu se otkriti kongenitalne anomalije koje u većini slučajeva nisu udružene s pojavom noćnog mokrenja. Tranverzalni promjer rektuma veči od 3 cm ukazuje na opstipaciju.
+   
+   5. Više o rijetkim uzrocima noćnog mokrenja možete saznati na: [Rijetki uzroci noćnog mokrenja i kad misliti na njih](https://budisuh.eu/rijetki-uzroci-nocnog-mokrenja/)
