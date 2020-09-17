@@ -27,26 +27,28 @@ nav:
 
 # Configuration
 theme:
-  name: 'material'
+  name: material
   palette:
-    primary: 'teal'
-    accent: 'teal'
-  logo:
-    icon: 'font_download'
-  language: 'sh'
+    primary: teal
+    accent: deep orange
+  icon:
+    logo: material/library/spider
+  language: hr
 
 # Customization
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/slavenabd'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/slaven-abdovic'
+    - icon: fontawesome/brands/github
+      link: https://github.com/slavenabd
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/slaven-abdovic
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCaotfAg96osvQyR6LpzqTNw
 
 # Google Analytics
 google_analytics:
-  - 'UA-125902625-1'
-  - 'auto'
+  - UA-125902625-1
+  - auto
 
 # Extensions
 markdown_extensions:
