@@ -31,8 +31,6 @@ theme:
   palette:
     primary: teal
     accent: deep orange
-  icon:
-    logo: material/library/spider
   language: hr
 
 # Customization

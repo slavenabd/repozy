@@ -21,11 +21,12 @@ Pohranjeni su posteri koji su prezentirani na hrvatskim ili međunarodnim kongre
 ## Posjetite Budisuh.eu
 
 Prva internet stranica posvećena noćnom mokrenju za pacijente, roditelje i liječnike primarne zdravstvene zaštite. Naš cilj je kroz edukaciju unaprijediti liječenje noćnog mokrenja. Na Budisuh.eu možete naći sljedeće članke:
-1. [Noćno mokrenje (enureza) u 5 pitanja i odgovora](https://budisuh.eu/nocno-mokrenje-enureza-djeca-dijagnostika-lijecenje/)
-2. [Enureza (noćno mokrenje) u 3 minute čitanja](https://budisuh.eu/enureza-nocno-mokrenje-ukratko/)
-3. [Liječenje noćnog mokrenja i 3 koraka do uspjeha](https://budisuh.eu/uspjesno-lijecenje-nocnog-mokrenja/)
-4. [Režim pijenja i mokrenja kao 1. korak u suhoći dana i noći](https://budisuh.eu/rezim-pijenja-i-mokrenja-prvi-korak-do-suhoce/)
-5. [Dnevnik pijenja i mokrenja te kako ga pravilno ispuniti i tumačiti](https://budisuh.eu/dnevnik-pijenja-i-mokrenja-ispunjavanje-tumacenje/)
-6. [Pretrage za noćno mokrenje kod djece](https://budisuh.eu/pretrage-za-nocno-mokrenje-kod-djece/)
-7. [Rijetki uzroci noćnog mokrenja i kad misliti na njih](https://budisuh.eu/rijetki-uzroci-nocnog-mokrenja/)
-8. [Odvikavanje od pelena](https://budisuh.eu/odvikavanje-od-pelena/)
+
+1. [Noćno mokrenje (enureza) u 5 pitanja i odgovora](https://budisuh.eu/nocno-mokrenje-enureza-djeca-dijagnostika-lijecenje/) 
+2. [Enureza (noćno mokrenje) u 3 minute čitanja](https://budisuh.eu/enureza-nocno-mokrenje-ukratko/) 
+3. [Liječenje noćnog mokrenja i 3 koraka do uspjeha](https://budisuh.eu/uspjesno-lijecenje-nocnog-mokrenja/) 
+4. [Režim pijenja i mokrenja kao 1. korak u suhoći dana i noći](https://budisuh.eu/rezim-pijenja-i-mokrenja-prvi-korak-do-suhoce/) 
+5. [Dnevnik pijenja i mokrenja te kako ga pravilno ispuniti i tumačiti](https://budisuh.eu/dnevnik-pijenja-i-mokrenja-ispunjavanje-tumacenje/) 
+6. [Pretrage za noćno mokrenje kod djece](https://budisuh.eu/pretrage-za-nocno-mokrenje-kod-djece/) 
+7. [Rijetki uzroci noćnog mokrenja i kad misliti na njih](https://budisuh.eu/rijetki-uzroci-nocnog-mokrenja/) 
+8. [Odvikavanje od pelena](https://budisuh.eu/odvikavanje-od-pelena/) 
