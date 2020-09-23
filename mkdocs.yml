@@ -19,7 +19,8 @@ nav:
         - 'Edukativni materijal za roditelje': enureza_edu.md
         - 'Preporuka obrade za rijetke uzroke enureze': enureza_prep.md
     - Kasno-prezentirajuća valvula stražnje uretre: puv.md
-    - Infekcije mokraćnih putova: uti.md
+    - Infekcije mokraćnih putova i VUR: 
+        - 'Infekcije mokraćnih putova': uti.md
         - 'Kontrastna mikcijska urosonografija': cevus.md
     - Kronična bubrežna bolest: ckd.md
     - Prekomjerno aktivni mokraćni mjehur: oab.md
