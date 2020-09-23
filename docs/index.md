@@ -11,8 +11,9 @@ Ovaj repozitorij je zbirka koja okuplja i trajno pohranjuje rezultate osobnog zn
 1. [Noćno mokrenje (enureza)](enureza.md)
 2. [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](puv.md)
 3. [Infekcije mokraćnih putova](uti.md)
-3. [Kronična bubrežna bolest i bubrežno nadomjesno liječenje](ckd.md)
-4. [Prekomjerno aktivni mokraćni mjehur](oab.md)
+4. [Postupnik kontrastne mikcijske urosonografije](cevus.md)
+5. [Kronična bubrežna bolest i bubrežno nadomjesno liječenje](ckd.md)
+6. [Prekomjerno aktivni mokraćni mjehur](oab.md)
 
 ## Poster prezentacije, predavanja i objavljeni članci
 

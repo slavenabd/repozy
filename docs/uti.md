@@ -15,6 +15,6 @@ Algoritam je temeljen na premisi da su infekcije posljedica poremećaja funkcije
    
 ### Skraćenice
    **UZV** | ultrazvuk  
-   **ceVUS** | ultrazvučna kontrastna cistografija  
+   **ceVUS** | ultrazvučna kontrastna cistografija | kontrastna mikcijska urosonografija  
    **VUR** | Vezikouretralni refluks  
    **OAB** | Prekomjerno aktivni mokraćni mjehur  
