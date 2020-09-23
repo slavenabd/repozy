@@ -25,7 +25,7 @@ Dojenčad i manja djeca: 250 mL F.0. + 0,5 mL SonoVue
 Predškolska i školska djeca: 500 mL F.O. + 1 mL SonoVue
 
 ## Postupnik
-Kompletni UZV pregled bubrega i mokraćnog mjehura.
+Kompletni UZV pregled bubrega i mokraćnog mjehura. 
 Dijete koje kontrolira sfinktere je mokrilo u toalet i aseptičnim postupkom postavljen je Nelaton kateter Ch 8 uz primjenu Instillagela na vrh katetera.
 Dijete u pelenama ispraznilo je mjehur nakon aseptične kateterizacije s Ch 6 ili Ch 8 (uz Instillagel).
 Kateter je pričvršćen samoljepljivom trakom za vanjsko spolovilo.
