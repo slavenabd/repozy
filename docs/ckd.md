@@ -1,4 +1,4 @@
-# Kronična bubrežna bolest i bubrežno nadomjesno liječenje
+# Kronična i akutna bubrežna bolest te bubrežno nadomjesno liječenje
 
 ## Kronična bubrežna bolest
    1. [Smjernice liječenja kronične bubrežne bolesti (CKD) kod djece](https://drive.google.com/file/d/1xXNLSqTnbxZrf3UBndevBQoVzQh1ApXC/view?usp=sharing)  
