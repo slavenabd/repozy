@@ -14,6 +14,7 @@ Ovaj repozitorij je zbirka koja okuplja i trajno pohranjuje rezultate osobnog zn
 4. [Postupnik kontrastne mikcijske urosonografije](cevus.md)
 5. [Kronična i akutna bubrežna bolest te bubrežno nadomjesno liječenje](ckd.md)
 6. [Prekomjerno aktivni mokraćni mjehur](oab.md)
+7. [Prehrana u bubrežnim bolestima](prehrana.md)
 
 ## Poster prezentacije, predavanja i objavljeni članci
 
