@@ -13,3 +13,4 @@
 * [Prehrana u bubrežnim bolestima](prehrana-u-bubreznim-bolestima.md)
 * [Posteri, predavanja i članci](art.md)
 * [Životopis](zivotopis.md)
+* [Zaštita privatnosti](zastita-privatnosti.md)
