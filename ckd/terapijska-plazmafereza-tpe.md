@@ -166,31 +166,23 @@ Hipokalemija (K<3,0): 1M KCl (1 mL/kg/1h)
 
 Acidoza (HCO3<20): 8,4% NaHCO3 (1 mL/kg u istom volumenu FO /1h)&#x20;
 
-\
-
-
-Frakcija filtracije.
+### Frakcija filtracije.
 
 Povećanjem protoka nadomjesne tekućine raste frakcija filtracija. Cilj je održavati FF ispod 30%. Veće vrijednosti povećavaju rizik zgrušavanja filtera.&#x20;
 
 FF se smanjuje povećanjem protoka krvne pumpe, povećanjem protoka PBP otopine, smanjenjem brzine nadomjesne tekućine.
 
-\
+### Porast TMP.
 
-
-Porast TMP.
-
-U pravilu TMP se kreće između 10-25. Brzi rast vrijednosti (blagi-srednji-visoki porast je 30-50-90, kroz 2-5 minuta) ukazuje na prijeteće zgrušavanja filtera. U tim okolnostima:
+U pravilu TMP se kreće između 10-25. Brzi rast vrijednosti (blagi-srednji-visoki porast je 30-50-100, kroz 2-5 minuta) ukazuje na prijeteće zgrušavanja filtera. U tim okolnostima:
 
 1. Ponoviti primjenu Clexana
 2. Povećati protok krvne pumpe kako bi se smanjila frakcija filtracije
 3. Smanjiti suplementaciju kalcija ukoliko je iCa veći od 1,20 mmol/L
-4. Uključiti protok na PBP 100 mL/h
-
-\
+4. Uključiti protok na PBP 100 mL/h\
 
 
-Kontrole i nadomjestak nakon TPE.
+### Kontrole i nadomjestak nakon TPE.
 
 Koagulogram (PV, INR, APTV, fibrinogen, AT3, anti-Xa) za 4-6h od završetka postupka.
 
@@ -198,6 +190,4 @@ Ako je fibrinogen <1 dati Fibrigu (20-40 mg/kg/Max 30 min).
 
 Ako je AT3<80% dati Atenativ (40-60 iu/kg)
 
-Ako je PV<0,6 dati svježe smrznutu plazmu 10-15 mL/kg kroz 30 min. Kod reakcija na SSP, potrebna je kod sljedećih davanja ordinirti premedikaciju koja je u pravilu Solumedrol 1 mg/kg i antihistaminik (Fenistil kapi).
-
-\
+Ako je PV<0,6 dati svježe smrznutu plazmu 10-15 mL/kg kroz 30 min. Kod reakcija na SSP, potrebna je kod sljedećih davanja ordinirti premedikaciju koja je u pravilu Solumedrol 1 mg/kg i.v. i antihistaminik (Fenistil kapi per os).\
