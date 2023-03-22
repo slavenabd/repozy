@@ -127,8 +127,7 @@ Ukoliko raste TMP (rizik zgrušavanja filtera) ponoviti istu dozu.&#x20;
 
 **Heparin.** Doza je 10-20 IU/kg bolus pa ista doza kontinuirano. Ako je moguće pratiti APTV svakih sat vremena, ciljano vrijeme je 180 s.
 
-**RCA.** Kao citrat se koristi 4% citrat (136 mmol/L). Uz preporučenu antikoagulacijsku dozu citrata od 3,0 mmol/L krvi preporučuje se sljedeći protokol davanja citrata na PBP. \
-
+**RCA.** Kao citrat se koristi 4% citrat (136 mmol/L). Uz preporučenu antikoagulacijsku dozu citrata od 3,0 mmol/L krvi preporučuje se sljedeći protokol davanja citrata na PBP.&#x20;
 
 | **Brzina krvne pumpe mL/min** | **4% citrat na PBP mL/h** |
 | ----------------------------- | ------------------------- |
@@ -151,13 +150,15 @@ Ukoliko raste TMP (rizik zgrušavanja filtera) ponoviti istu dozu.&#x20;
 | 190                           | 250                       |
 | 200                           | 260                       |
 
-Potrebno je održavati sljedeće koncentracije iCa u filteru (0,3 mmol/L, raspon 0,25-0,4) i pacijentu (0,9-1,2 mmol/L). Pratiti vrijednosti iCa u filteru i pacijentu svakih 30-60 min.\
-\
+Potrebno je održavati sljedeće koncentracije iCa u filteru (cilj 0,3 mmol/L, raspon 0,25-0,4) i pacijentu (0,9-1,2 mmol/L). Pratiti vrijednosti iCa u filteru i pacijentu svakih 30-60 min.
 
+### Suplementacija tijekom TPE
 
-Suplementacija tijekom TPE.
+S početkom TPE gdje je nadomjesna otopina 5% albumin uključiti iv. suplementaciju kalcijem:&#x20;
 
-S početkom TPE gdje je nadomjesna otopina 5% albumin uključiti iv. suplementaciju kalcijem: 20 mL Ca-glukonata u 50 mL FO u protoku 30 mL/h. Pratiti iCa na početku TPE i svakih 20-30 minuta. Prilagoditi brzinu pumpe prema kontrolnim vrijednostima iCa. Primjena 5% albumina uzrokovat će hipokalcemiju i cilj je nadomjestiti kalcij tako da se iCa u pacijenta održava između 0,9-1,2 mmol/L.&#x20;
+20 mL Ca-glukonata u 50 mL FO u protoku 30 mL/h. Pratiti iCa na početku TPE i svakih 20-30 minuta.&#x20;
+
+Prilagoditi brzinu pumpe prema kontrolnim vrijednostima iCa. Primjena 5% albumina uzrokovat će hipokalcemiju i cilj je nadomjestiti kalcij tako da se iCa u pacijenta održava između 0,9-1,2 mmol/L.&#x20;
 
 Moguća druga suplementacija:&#x20;
 

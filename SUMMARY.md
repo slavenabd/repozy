@@ -8,7 +8,7 @@
 * [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](puv.md)
 * [Infekcije mokraćnih putova](uti/README.md)
   * [Kontrastna mikcijska urosonografija (contrast-enhanced voiding urosonography)](uti/kontrastna-mikcijska-urosonografija-contrast-enhanced-voiding-urosonography.md)
-* [Podržavanje bubrežne funkcije (renal support)](ckd/README.md)
+* [Podržavanje bubrežne funkcije (renal support)](ckd.md)
   * [Terapijska plazmafereza (TPE)](ckd/terapijska-plazmafereza-tpe.md)
 * [Prekomjerno aktivni mokraćni mjehur](oab.md)
 * [Prehrana u bubrežnim bolestima](prehrana-u-bubreznim-bolestima.md)
