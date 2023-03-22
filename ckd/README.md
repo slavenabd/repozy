@@ -1,4 +1,8 @@
-# Kronična bubrežna bolest i bubrežno nadomjesno liječenje
+---
+description: Sadržaj
+---
+
+# Podržavanje bubrežne funkcije (renal support)
 
 ### Kronična bubrežna bolest
 
