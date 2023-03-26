@@ -43,14 +43,3 @@ Email: sabdovic {at} mefhr {dot} hr
 #### Aktivnosti na projektu
 
 Na sljedećem [linku](https://drive.google.com/open?id=1eqWqTdB7MzISQYq24q4qvykpQJJgVqNqNyu99lw0p-o) moguće je pratiti sve aktivnosti vezane uz znanstveno istraživanje.
-
-## Dnevnici mokrenja
-
-1.  [**Dnevnik kontinencije**](https://drive.google.com/open?id=1xB0YxZwsMhn7xVbB518o2Ax4ue3W7dL3) &#x20;
-
-    U dnevniku kontinenciju ispitanik kroz 1 do 7 dana bilježi trenutke normalnog mokrenja, hitnosti, epizoda hitnosti s bijegom mokraće i izolirane intermitentne inkontinencije. Dnevnik omogućava objektivizaciju broja mokrenja tijekom dana, prisustvo i učestalost hitnosti, inkontinencije hitnosti, postmikcijske inkontinencije, inkontinencije tipa stres i smijanja. Također, bilježi se prisustvo i težina enureze i nokturije tijekom perioda praćenja. Konačno, omogućava uvid u redovitost mokrenja i razlučivanje utjecanja odgađanja mokrenja na pojavu simptoma poremećaja pohrane mokraće. &#x20;
-
-    Dnevnik kontinencije najčešće ispunjavaju pacijenti s hitnosti i/ili dnevnom intermitentnom inkontinencijom kod kojih je potrebno razlučiti opseg i težinu kliničke slike. &#x20;
-2.  **Dnevnik mokrenja i pijenja** | [48h tiskani dnevnik](https://drive.google.com/open?id=1Up\_f-J5tJCjO1kJBTONFFMnF-MXBXkyJ) | [48h Excel](https://drive.google.com/open?id=1eMNe9UeqJHjGoHEKNagK9sCb2fKM3DYs)
-
-    Dnevnik mokrenja i pijenja objektivizira broj mokrenja tijekom dana, kapacitet mjehura, noćnu proizvodnju mokraće te volumen i raspodjelu dnevnog unosa tekućine. Ispunjava se od strane ispitanika ili roditelja/staratelja.  Izuzev što je potrebno zabilježiti volumen i vrijeme svakog pojedinog mokrenja i pijenja, potrebno je i probuditi ispitanika nakon što je zaspao (najčešće u 2 navrata 1h i 4h od odlaska na spavanje) te izmjeriti volumen mokrenja s ciljem mjerenja noćne proizvodnje mokraće. Umjesto buđenja noću može se izmjeriti težina mokre pelene. Za ovu pretragu potrebno je imati mjernu posudu. &#x20;
