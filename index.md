@@ -10,7 +10,7 @@ Ovaj repozitorij je zbirka koja okuplja i trajno pohranjuje rezultate osobnog zn
 2. [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](http://slaven-abdovic.from.hr/puv/)
 3. [Infekcije mokraćnih putova](http://slaven-abdovic.from.hr/uti/)
 4. [Postupnik kontrastne mikcijske urosonografije](http://slaven-abdovic.from.hr/cevus/)
-5. [Kronična i akutna bubrežna bolest te bubrežno nadomjesno liječenje](http://slaven-abdovic.from.hr/ckd/)
+5. [Podržavanje bubrežne funkcije: CKD, HD, PD, CRRT, TPE](ckd.md)
 6. [Prekomjerno aktivni mokraćni mjehur](http://slaven-abdovic.from.hr/oab/)
 7. [Prehrana u bubrežnim bolestima](http://slaven-abdovic.from.hr/prehrana/)
 
