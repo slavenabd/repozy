@@ -13,6 +13,7 @@
   * [Kontrastna mikcijska urosonografija (contrast-enhanced voiding urosonography)](uti/kontrastna-mikcijska-urosonografija-contrast-enhanced-voiding-urosonography.md)
 * [Podržavanje bubrežne funkcije (renal support)](ckd.md)
   * [Terapijska plazmafereza (TPE)](ckd/terapijska-plazmafereza-tpe.md)
+* [Atipični hemolitičko uremijski sindrom (aHUS)](atipicni-hemoliticko-uremijski-sindrom-ahus.md)
 * [Prehrana u bubrežnim bolestima](prehrana-u-bubreznim-bolestima.md)
 * [Posteri, predavanja i članci](art.md)
 * [Životopis](zivotopis.md)

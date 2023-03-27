@@ -118,16 +118,33 @@ Neto gubitak plazme inicijalno podesiti na 0 mL/h.
 ### Antikoagulacija
 
 {% hint style="info" %}
-Antikoagulacija je može biti Clexan, heparin ili regionalna citratna antikoagulacija (RCA).&#x20;
+Antikoagulacija može biti Clexan, heparin ili regionalna citratna antikoagulacija (RCA).&#x20;
 {% endhint %}
 
-**Clexane.** Doza je 100 IU/kg, zaokružiti na vrijednosti 1000-4000 IU. Dati u crveni gumb seta prije filtera. Dati na samom početku postupka kad izlazni krak iz filtera počne postajati tamno crven.&#x20;
+#### **1. Clexane**
+
+Doza je 100 IU/kg, zaokružiti na vrijednosti 1000-4000 IU. Dati u crveni gumb seta prije filtera. Dati na samom početku postupka kad izlazni krak iz filtera počne postajati tamno crven.&#x20;
 
 Ukoliko raste TMP (rizik zgrušavanja filtera) ponoviti istu dozu.&#x20;
 
-**Heparin.** Doza je 10-20 IU/kg bolus pa ista doza kontinuirano. Ako je moguće pratiti APTV svakih sat vremena, ciljano vrijeme je 180 s.
+#### **2. Heparin**
 
-**RCA.** Kao citrat se koristi 4% citrat (136 mmol/L). Uz preporučenu antikoagulacijsku dozu citrata od 3,0 mmol/L krvi preporučuje se sljedeći protokol davanja citrata na PBP.&#x20;
+Doza je 10-20 IU/kg bolus pa ista doza kontinuirano. Ako je moguće pratiti APTV svakih sat vremena, ciljano vrijeme je 180 s.
+
+Doza protamin sulfata:
+
+$$
+Protamin (mg) = heparin (IU)/(100 *k)
+$$
+
+Heparin dan unutar 60 min: k=1\
+Heparin dan unutar 60-120 min:k=2\
+Heparin dan unutar 120-240 min: k=4\
+Heparin dan prije 240 min ili više: ne davati protamin
+
+#### 3. Regionalna citratna antikoagulacija (RCA)
+
+Kao citrat se koristi 4% citrat (136 mmol/L). Za preporučenu antikoagulacijsku dozu citrata od 3,0 mmol/L krvi preporučuje se sljedeći protokol davanja citrata na PBP.&#x20;
 
 | **Brzina krvne pumpe mL/min** | **4% citrat na PBP mL/h** |
 | ----------------------------- | ------------------------- |
@@ -150,13 +167,25 @@ Ukoliko raste TMP (rizik zgrušavanja filtera) ponoviti istu dozu.&#x20;
 | 190                           | 250                       |
 | 200                           | 260                       |
 
-Potrebno je održavati sljedeće koncentracije iCa u filteru (cilj 0,3 mmol/L, raspon 0,25-0,4) i pacijentu (0,9-1,2 mmol/L). Pratiti vrijednosti iCa u filteru i pacijentu svakih 30-60 min.
+Obzirom da citrat veže serumski kalcij radi postizanja antikoagulacije, potrebno je nadoknađivati kalcij tijekom TPE kod reginalne citratne antikoagulacije.
+
+Na povratnu liniju preko Y nastavka postaviti infuziju kalcija: 40 mL Ca-glukonata do 100 mL FO (8,8 mmol Ca u 100 mL). Početna brzina se izračunava:
+
+$$
+Otopina Ca (mL/h)=brzinaPBP(mL/h)/5
+$$
+
+| Ca glukonat mmol/L | Ca citrat mmol/L |
+| ------------------ | ---------------- |
+| 220                | 680              |
+
+Potrebno je održavati sljedeće koncentracije iCa u filteru (cilj 0,3 mmol/L, raspon 0,25-0,4) i pacijentu (0,9-1,2 mmol/L). Pratiti vrijednosti iCa u filteru i pacijentu svakih 30-60 min. Prema vrijednosti iCa prilagoditi brzinu citrata i nadomjestak Ca.
 
 ### Suplementacija tijekom TPE
 
-S početkom TPE gdje je nadomjesna otopina 5% albumin uključiti iv. suplementaciju kalcijem:&#x20;
+S početkom TPE gdje je nadomjesna otopina 5% albumin i ako je antikoagulacija Clexane ili heparin uključiti iv. suplementaciju kalcijem:&#x20;
 
-20 mL Ca-glukonata u 50 mL FO u protoku 30 mL/h. Pratiti iCa na početku TPE i svakih 20-30 minuta.&#x20;
+40 mL Ca-glukonata u 100 mL FO u protoku 30 mL/h. Pratiti iCa na početku TPE i svakih 30 minuta.&#x20;
 
 Prilagoditi brzinu pumpe prema kontrolnim vrijednostima iCa. Primjena 5% albumina uzrokovat će hipokalcemiju i cilj je nadomjestiti kalcij tako da se iCa u pacijenta održava između 0,9-1,2 mmol/L.&#x20;
 
@@ -166,13 +195,13 @@ Hipokalemija (K<3,0): 1M KCl (1 mL/kg/1h)
 
 Acidoza (HCO3<20): 8,4% NaHCO3 (1 mL/kg u istom volumenu FO /1h)&#x20;
 
-### Frakcija filtracije.
+### Frakcija filtracije
 
 Povećanjem protoka nadomjesne tekućine raste frakcija filtracija. Cilj je održavati FF ispod 30%. Veće vrijednosti povećavaju rizik zgrušavanja filtera.&#x20;
 
 FF se smanjuje povećanjem protoka krvne pumpe, povećanjem protoka PBP otopine, smanjenjem brzine nadomjesne tekućine.
 
-### Porast TMP.
+### Porast TMP
 
 U pravilu TMP se kreće između 10-25. Brzi rast vrijednosti (blagi-srednji-visoki porast je 30-50-100, kroz 2-5 minuta) ukazuje na prijeteće zgrušavanja filtera. U tim okolnostima:
 
@@ -182,7 +211,7 @@ U pravilu TMP se kreće između 10-25. Brzi rast vrijednosti (blagi-srednji-viso
 4. Uključiti protok na PBP 100 mL/h\
 
 
-### Kontrole i nadomjestak nakon TPE.
+### Kontrole i nadomjestak nakon TPE
 
 Koagulogram (PV, INR, APTV, fibrinogen, AT3, anti-Xa) za 4-6h od završetka postupka.
 
