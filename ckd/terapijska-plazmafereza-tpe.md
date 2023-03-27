@@ -169,7 +169,7 @@ Kao citrat se koristi 4% citrat (136 mmol/L). Za preporučenu antikoagulacijsku 
 
 Obzirom da citrat veže serumski kalcij radi postizanja antikoagulacije, potrebno je nadoknađivati kalcij tijekom TPE kod reginalne citratne antikoagulacije.
 
-Na povratnu liniju preko Y nastavka postaviti infuziju kalcija: 40 mL Ca-glukonata do 100 mL FO (8,8 mmol Ca u 100 mL). Početna brzina se izračunava:
+Na povratnu liniju preko Y nastavka postaviti infuziju kalcija: 40 mL Ca-glukonata do 100 mL FO (8,8 mmol Ca u 100 mL). Početna brzina se ovakve otopine se izračunava po sljedećoj formuli:
 
 $$
 Otopina Ca (mL/h)=brzinaPBP(mL/h)/5
@@ -199,7 +199,11 @@ Acidoza (HCO3<20): 8,4% NaHCO3 (1 mL/kg u istom volumenu FO /1h)&#x20;
 
 Povećanjem protoka nadomjesne tekućine raste frakcija filtracija. Cilj je održavati FF ispod 30%. Veće vrijednosti povećavaju rizik zgrušavanja filtera.&#x20;
 
-FF se smanjuje povećanjem protoka krvne pumpe, povećanjem protoka PBP otopine, smanjenjem brzine nadomjesne tekućine.
+Frakcija filtracije se smanjuje&#x20;
+
+* povećanjem protoka krvne pumpe,&#x20;
+* povećanjem protoka PBP otopine,&#x20;
+* smanjenjem brzine nadomjesne tekućine.
 
 ### Porast TMP
 
