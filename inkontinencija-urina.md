@@ -16,4 +16,4 @@ Intermitnentna inkontinencija urina je nevoljni bijeg mokraće u budnosti (dnevn
 
 [Noćno mokrenje](enureza/)
 
-[Prekomjerno aktivni mnokraćni mjehur (pOAB projekt)](oab.md)
+[Prekomjerno aktivni mokraćni mjehur (pOAB projekt)](oab.md)
