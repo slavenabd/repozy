@@ -2,13 +2,19 @@
 
 * [Slaven Abdović: Repozitorij](README.md)
 * [Repozitorij](index.md)
-* [Inkontinencija urina](inkontinencija-urina.md)
-* [Uloga dnevnika mokrenja i pijenja](uloga-dnevnika-mokrenja-i-pijenja.md)
-* [Noćno mokrenje (enureza)](enureza/README.md)
-  * [Preporuke pretraga za rijetke uzroke noćnog mokrenja](enureza/enureza\_prep.md)
-  * [Edukativni materijal za roditelje djece s noćnim mokrenjem](enureza/edukativni-materijal-za-roditelje-djece-s-nocnim-mokrenjem.md)
-* [Prekomjerno aktivni mokraćni mjehur](oab.md)
-* [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](puv.md)
+
+## Inkontinencija urina
+
+* [Inkontinencija urina: uvod](inkontinencija-urina/inkontinencija-urina-uvod.md)
+* [Uloga dnevnika mokrenja i pijenja](inkontinencija-urina/uloga-dnevnika-mokrenja-i-pijenja.md)
+* [Noćno mokrenje (enureza)](inkontinencija-urina/enureza/README.md)
+  * [Preporuke pretraga za rijetke uzroke noćnog mokrenja](inkontinencija-urina/enureza/enureza\_prep.md)
+  * [Edukativni materijal za roditelje djece s noćnim mokrenjem](inkontinencija-urina/enureza/edukativni-materijal-za-roditelje-djece-s-nocnim-mokrenjem.md)
+* [Prekomjerno aktivni mokraćni mjehur](inkontinencija-urina/oab.md)
+* [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](inkontinencija-urina/puv.md)
+
+***
+
 * [Novorođenačka valvula stražnje uretre](novorodenacka-valvula-straznje-uretre.md)
 * [Infekcije mokraćnih putova](uti/README.md)
   * [Kontrastna mikcijska urosonografija (contrast-enhanced voiding urosonography)](uti/kontrastna-mikcijska-urosonografija-contrast-enhanced-voiding-urosonography.md)
