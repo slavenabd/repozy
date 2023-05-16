@@ -1,5 +1,9 @@
 # Infekcije mokraćnih putova
 
+### Predavanje o infekcijama mokraćnih putova u djece <a href="#dijagnostika-infekcija-mokracnih-putova" id="dijagnostika-infekcija-mokracnih-putova"></a>
+
+{% embed url="https://docs.google.com/presentation/d/16D7O6Ydc1VXTBoOTi2v3WO8bOnwOPQApYhVbWvVhW_I/edit?usp=sharing" %}
+
 ### Dijagnostika infekcija mokraćnih putova[¶](http://slaven-abdovic.from.hr/uti/#dijagnostika-infekcija-mokracnih-putova) <a href="#dijagnostika-infekcija-mokracnih-putova" id="dijagnostika-infekcija-mokracnih-putova"></a>
 
 1. [Algoritam dijagnostike infekcija mokraćnih putova kod djece](https://drive.google.com/file/d/1yMfZRo2QVSe0Qfg8ZOKy5OJjzQzhN6OY/view?usp=sharing)
