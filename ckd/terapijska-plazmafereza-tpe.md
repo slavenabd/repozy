@@ -54,7 +54,7 @@ $$
 
 Npr. dijete s 12 kg, Hct 27%,volumenom plazme 613 mL, Dg: FSGS, volumen će biti 1200 mL.
 
-****
+
 
 **Treće.** Odabir nadomjesne tekućine: u pravilu je 5% albumin zbog manjeg rizika reakcija (poput tahikardije, hipotenzije, osipa).  Volumen nadomjesne bočice postaviti na aparatu na 240 mL (ako je bočica od 250 mL). Ako je nadomjesna otopina svježe smrznuta plazma, svaki put kod promjene vrećice ručno prilagoditi volumen spremnika da bude 10 ml manji od volumena te vrećice.
 
@@ -191,7 +191,7 @@ Prilagoditi brzinu pumpe prema kontrolnim vrijednostima iCa. Primjena 5% albumin
 
 Moguća druga suplementacija:&#x20;
 
-Hipokalemija (K<3,0): 1M KCl (1 mL/kg/1h)
+Hipokalemija (K<3,0): 1M KCl (0.25 mL/kg/1h)
 
 Acidoza (HCO3<20): 8,4% NaHCO3 (1 mL/kg u istom volumenu FO /1h)&#x20;
 
