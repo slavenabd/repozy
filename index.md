@@ -6,13 +6,13 @@ Ovaj repozitorij je zbirka koja okuplja i trajno pohranjuje rezultate osobnog zn
 
 ## Sadržaj
 
-1. [Noćno mokrenje (enureza)](http://slaven-abdovic.from.hr/enureza/)
-2. [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](http://slaven-abdovic.from.hr/puv/)
-3. [Infekcije mokraćnih putova](http://slaven-abdovic.from.hr/uti/)
-4. [Postupnik kontrastne mikcijske urosonografije](http://slaven-abdovic.from.hr/cevus/)
+1. [Noćno mokrenje (enureza)](inkontinencija-urina/enureza/)
+2. [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](inkontinencija-urina/puv.md)
+3. [Infekcije mokraćnih putova](uti/)
+4. [Postupnik kontrastne mikcijske urosonografije](uti/kontrastna-mikcijska-urosonografija-contrast-enhanced-voiding-urosonography.md)
 5. [Podržavanje bubrežne funkcije: CKD, HD, PD, CRRT, TPE](ckd.md)
-6. [Prekomjerno aktivni mokraćni mjehur](http://slaven-abdovic.from.hr/oab/)
-7. [Prehrana u bubrežnim bolestima](http://slaven-abdovic.from.hr/prehrana/)
+6. [<mark style="color:blue;">Prekomjerno aktivni mokraćni mjehur</mark>](#user-content-fn-1)[^1]
+7. [Prehrana u bubrežnim bolestima](prehrana-u-bubreznim-bolestima/)
 
 ## Poster prezentacije, predavanja i objavljeni članci
 
@@ -30,3 +30,5 @@ Prva internet stranica posvećena noćnom mokrenju za pacijente, roditelje i lij
 6. [Pretrage za noćno mokrenje kod djece](https://budisuh.eu/pretrage-za-nocno-mokrenje-kod-djece/)
 7. [Rijetki uzroci noćnog mokrenja i kad misliti na njih](https://budisuh.eu/rijetki-uzroci-nocnog-mokrenja/)
 8. [Odvikavanje od pelena](https://budisuh.eu/odvikavanje-od-pelena/)
+
+[^1]: 
