@@ -191,7 +191,7 @@ Prilagoditi brzinu pumpe prema kontrolnim vrijednostima iCa. Primjena 5% albumin
 
 Moguća druga suplementacija:&#x20;
 
-Hipokalemija (K<3,0): 1M KCl (0.25 mL/kg/1h)
+Hipokalemija (K<3,0): 1M KCl (0.25 mL/kg/1h do maksimalno 20 ml 1M KCl/1 h). Koncentracija K u infuzijskoj otopini ne smije biti veća od 40 mmol/L.
 
 Acidoza (HCO3<20): 8,4% NaHCO3 (1 mL/kg u istom volumenu FO /1h)&#x20;
 
