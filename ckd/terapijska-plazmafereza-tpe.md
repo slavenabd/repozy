@@ -28,6 +28,8 @@ Prije samog postupka potrebno je postaviti dvoluminalni dijalizni kateter. Odabi
 
 S postavljanjem katetera, u oba kraka je potrebno staviti isključivo crveni Belupo heparin (25.000 IU/5 mL) u volumenu da se ispune krakovi (volumeni su zapisani na krakovima katetera). Stavljanje drugog heparina, manje koncentracije, može povećati rizik nastanka tromba u kateteru.
 
+Tijekom postavljanja aparata postaviti Y-krak na pristupni i povratni krak dvoluminalnog katetera. Na dodatni Y-krak kod pristupnog katetera postaviti FO 500 mL, a na dodatni Y-krak povratnog ostaviti za korekciju nalaza (npr. kalcija, K ili acidoze).
+
 ### Nadomjesna tekućina
 
 **Prvo.** Odrediti volumen plazme pacijenta prema formuli:&#x20;
@@ -104,6 +106,8 @@ Također je moguće držati se sljedećih okvirnih preporuka:
 U pravilu terapijska plazmafereza traje 2-3h. Odrediti početni protok tako da se ukupni nadomjesni volumen podijeli s 3. Ukoliko nema porasta transmembranskog tlaka (TMP) na Prismaflexu, postupno u prvih 15-30 min povećati do brzine protoka koja je jednaka ukupnom nadomjesnom volumenu /2.
 
 Npr. ukupni nadomjesni volumen je 1200 mL, početni protok nadomjesne je 400 mL/h, a konačni je 600 mL/h (u većini postupaka dosegnut već unutar prvih 30 minuta).
+
+Tijekom postavljanja filtera i otopina, na početku kao nadomjesnu tekućinu objesiti 250 mL FO koja se zamijeni sa odabranom otopinom (5% albumin ili svježe smrznuta plazma) kad se počne sa postupkom.
 
 ### Protok PBP (pre blood pump) otopine (mL/h)
 
