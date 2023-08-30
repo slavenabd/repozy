@@ -6,16 +6,7 @@ Doziranje: 0.5-0.8 g/kg
 
 ### Preskripcija
 
-|                                 |   |
-| ------------------------------- | - |
-| Datum primjene:                 |   |
-| Ime i prezime:                  |   |
-| Indikacija:                     |   |
-| TM (kg):                        |   |
-| Ukupna doza (g):                |   |
-| Vrsta imunoglobulina:           |   |
-| Početna brzina protoka  (ml/h): |   |
-| Max. protok (ml/h):             |   |
+<table><thead><tr><th width="296.5"></th><th></th></tr></thead><tbody><tr><td>Datum primjene: </td><td></td></tr><tr><td>Ime i prezime: </td><td></td></tr><tr><td>Indikacija: </td><td></td></tr><tr><td>TM (kg):</td><td></td></tr><tr><td>Ukupna doza (g): </td><td></td></tr><tr><td>Vrsta imunoglobulina: </td><td></td></tr><tr><td>Početna brzina protoka  (ml/h):</td><td></td></tr><tr><td>Max. protok (ml/h):</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 Ig VENA se treba dati u obliku intravenske infuzije početnom brzinom od 0,46 - 0,92 ml/kg/h kroz 30 minuta. Ukoliko bolesnik dobro podnosi primjenu, brzinu infuzije se može postupno povećavati do najviše 1,85 ml/kg/h do kraja infuzije.&#x20;

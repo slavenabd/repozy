@@ -1,5 +1,7 @@
 # Životopis
 
+<figure><img src=".gitbook/assets/şlaven.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
 ## dr. sc. Slaven Abdović, dr. med.
 
 ### Školovanje

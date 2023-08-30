@@ -6,15 +6,7 @@ Doziranje: 375 mg/m2
 
 ### Preskripcija
 
-|                    |   |
-| ------------------ | - |
-| Datum primjene:    |   |
-| Ime i prezime:     |   |
-| Indikacija:        |   |
-| TM (kg):           |   |
-| TV (cm):           |   |
-| BSA (m2):          |   |
-| Ukupna doza (mg):  |   |
+<table><thead><tr><th width="296.5"></th><th></th></tr></thead><tbody><tr><td>Datum primjene: </td><td></td></tr><tr><td>Ime i prezime: </td><td></td></tr><tr><td>Indikacija: </td><td></td></tr><tr><td>TM (kg):</td><td></td></tr><tr><td>TV (cm):</td><td></td></tr><tr><td>BSA (m2):</td><td></td></tr><tr><td>Ukupna doza (mg): </td><td></td></tr></tbody></table>
 
 ### Protokol primjene
 

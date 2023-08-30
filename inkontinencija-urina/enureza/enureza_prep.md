@@ -1,6 +1,6 @@
 # Preporuke pretraga za rijetke uzroke noćnog mokrenja
 
-****
+
 
 1. **Biokemijska i mikrobiološka analiza mokraće** radi isključenja infekcije mokraćnih putova i poliurije kao posljedica glukozurije.
 2.  **Mikciometrija (uroflow)** radi isključenja postojanja infravezikalne opstrukcije.
