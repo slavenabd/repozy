@@ -10,7 +10,7 @@ Doziranje: 375 mg/m2
 
 ### Protokol primjene
 
-Preporučena početna brzina infuzije je 0,5 mg/kg/sat (najviše 50 mg/sat); ako ne nastupe reakcije preosjetljivosti ili reakcije na infuziju, brzina se može povećavati za 0,5 mg/kg/sat svakih 30 minuta, do najviše 400 mg/sat.
+Preporučena početna brzina infuzije je 0,5 mg/kg/sat (najviše 50 mg/sat); ako ne nastupe reakcije preosjetljivosti ili reakcije na infuziju, brzina se može povećavati za 0,5 mg/kg/sat svakih 30 minuta, do najviše 400 mg/sat.&#x20;
 
 #### Daljnje infuzije
 
@@ -18,7 +18,7 @@ Sljedeće doze rituksimaba mogu se dati početnom brzinom infuzije od 1 mg/kg/sa
 
 #### Monitoriranje
 
-EKG, puls, saturacija, RR svakih 30 minuta
+Puls, saturacija, RR svakih 30 minuta
 
 #### Premedikacija
 
@@ -30,7 +30,7 @@ EKG, puls, saturacija, RR svakih 30 minuta
 
 #### Terapija
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (rituksimab) \_\_\_\_\_\_\_\_ mg u 150 mL F.O.&#x20;
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (rituksimab) \_\_\_\_\_\_\_\_ mg u \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mL F.O.&#x20;
 
 09-09.30 h brzina \_\_\_\_\_\_ mL/h
 
