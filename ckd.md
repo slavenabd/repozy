@@ -13,7 +13,7 @@ description: Sadržaj
 
 ### Kontinuirano bubrežno nadomjesno liječenje (CRRT)
 
-1. [CRRT kalkulator](https://drive.google.com/open?id=1UM\_QAgp7jy2FZYGllYJjcvxEcBLreeUG)
+1. [CRRT kalkulator](https://docs.google.com/spreadsheets/d/1NMCVlYrXjw4zZeU2AlI6JH2tGykGBbXIq1ipfpxlCK8/edit?usp=sharing)
 2. [cheatsheet pCRRT RCA preskripcija](https://docs.google.com/spreadsheets/d/1QFoAoNFXoD6qppi6FLY0zUGGHY87FN9imwY0P7Ac\_yE/edit?usp=sharingg)
 
 ### Peritonejska dijaliza
