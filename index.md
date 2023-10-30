@@ -6,8 +6,8 @@ Ovaj repozitorij je zbirka koja okuplja i trajno pohranjuje rezultate osobnog zn
 
 ## Sadržaj
 
-1. [Noćno mokrenje (enureza)](inkontinencija-urina/enureza/)
-2. [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](inkontinencija-urina/puv.md)
+1. [Noćno mokrenje (enureza)](poremecaj-funkcije-mokracnog-mjehura/enureza/)
+2. [Kasno-prezentirajuća valvula stražnje uretre i umjetna neuronska mreža](poremecaj-funkcije-mokracnog-mjehura/puv.md)
 3. [Infekcije mokraćnih putova](uti/)
 4. [Postupnik kontrastne mikcijske urosonografije](uti/kontrastna-mikcijska-urosonografija-contrast-enhanced-voiding-urosonography.md)
 5. [Podržavanje bubrežne funkcije: CKD, HD, PD, CRRT, TPE](ckd.md)

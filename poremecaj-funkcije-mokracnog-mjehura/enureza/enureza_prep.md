@@ -6,7 +6,7 @@
 2.  **Mikciometrija (uroflow)** radi isključenja postojanja infravezikalne opstrukcije.
 
     2.1 Prisustvo hitnosti, učestalog dnevnog mokrenja, isprekidanog ili slabog mlaza mokrenja je statistički značajnije povezana s infravezikalnom opstrukcijom. Ukoliko dijete ima isključivo primarnu monosimptomatsku enurezu (noćno mokrenje bez dnevnih simptoma uz uredan kapacitet mjehura i bez šestomjesečnog perioda suhoće nakon skidanja s pelena) vjerojatnost infravezikalne opstrukcije je statistički značajno manja i smatram kako nije potreban uroflow.\
-    2.2 Nizak protok ili aplanirana krivulja mokrenja je visoko suspektna za mehaničku opstrukciju mokraćne cijevi. [_isitpuo-ANN_](broken-reference) je umjetna neuronska mreža koja analizira rezultate mikciometrije i izračunava vjerojatnost infravezikalne opstrukcije.
+    2.2 Nizak protok ili aplanirana krivulja mokrenja je visoko suspektna za mehaničku opstrukciju mokraćne cijevi. _isitpuo-ANN_ je umjetna neuronska mreža koja analizira rezultate mikciometrije i izračunava vjerojatnost infravezikalne opstrukcije.
 3.  **Ca/kreatinin** u porciji drugog jutarnjeg urina za isključenje hiperkalcuriju koja uzrokuje noćnu poliuriju.
 
     3.1 Idiopatska hiperkalcurija liječi se strogom neslanom prehranom i povećanim unosom namirnica bogatih kalijem. Adekvatan unos namirnica bogatih kalijem procijenjuje se omjerom Na/K u porciji urina koji treba biti <2. 3.2 Potrebno je redovito kontrolirati Ca/kreatinin u mokraći i u slučaju neuspjeha neslane prehrane u obzir dolazi terapija tiazidskim diureticima. 3.3 U obzir dolazi denzitometrija kosti i ultrazvuk bubrega i mokraćnih putova radi procjene mineralizacije kosti, odnosno postojanja nefrolitijaze, urolitijaze ili nefrokalcinoze.
