@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Slaven Abdović: Repozitorij](README.md)
-* [Repozitorij](index.md)
+* [Repozitorij](README.md)
 
 ## POREMEĆAJ FUNKCIJE MOKRAĆNOG MJEHURA
 
