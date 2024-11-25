@@ -179,7 +179,7 @@ $$
 Otopina Ca (mL/h)=brzinaPBP(mL/h)/5
 $$
 
-| Ca glukonat mmol/L | Ca citrat mmol/L |
+| Ca glukonat mmol/L | Ca klorid mmol/L |
 | ------------------ | ---------------- |
 | 220                | 680              |
 
